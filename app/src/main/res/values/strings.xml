@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mostrar datos en otra Activity</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombre2">Nombre</string>
+    <string name="boton">Enviar</string>
+    <string name="boton2">Regresar</string>
+</resources>
